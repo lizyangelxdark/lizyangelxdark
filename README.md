@@ -6,3 +6,15 @@
 <div id="widget ">
   <div class="btn-o bg-blue" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/barisflexxq/" class="btn" id="b"><i class="fa fa-instagram ft14"></i><span class="label" id="l">Instagram</span></a></div>
 </div>
+  
+  <h2 align="centre">🇨🇦Barisflexxq⭐️</h2>
+
+### Cyber Music is a telegram bot project that,s Voice And Video Player,s.
+
+<p align="center"><a href="</h2>
+
+<p align="center">
+  <img src="https://resmim.net/cdn/2023/04/26/SDsNOZ.gif">
+</p>
+<p align="center">
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
