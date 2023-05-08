@@ -9,8 +9,6 @@
   
   <h2 align="centre">🇨🇦Barisflexxq⭐️</h2>
 
-### Cyber Music is a telegram bot project that,s Voice And Video Player,s.
-
 <p align="center"><a href="</h2>
 
 <p align="center">
