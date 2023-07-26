@@ -16,3 +16,12 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+
+> For business - t.me/phantomasistan
+
+## Github Stats
+![BarisFlexxQ's's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-kittu&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-lizyangelxdark&layout=compact&show_icons=true&theme=synthwave)
+
+
+  
