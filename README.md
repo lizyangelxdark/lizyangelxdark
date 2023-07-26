@@ -21,7 +21,7 @@
 
 ## Github Stats
 ![BarisFlexxQ's's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-kittu&show_icons=true&theme=synthwave) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-lizyangelxdark&layout=compact&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-noob-kittu&layout=compact&show_icons=true&theme=synthwave)
 
 
   
